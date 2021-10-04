@@ -18,7 +18,7 @@ In the project directory, you can run:
 ## create .env file
 put this to varailbles
 
-REACT_APP_GITHUB_CLIENT_ID={ClinetId}
+REACT_APP_GITHUB_CLIENT_ID={ClinetId} \
 REACT_APP_GITHUB_CLIENT_SECRET={SecretKey}
 
 ### `npm start`
