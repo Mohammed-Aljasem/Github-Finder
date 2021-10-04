@@ -5,6 +5,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+## Create app on Github
+  from here https://github.com/settings/developers 
+  from OAuth App click on create new app and put your information
+  
+  The Homepage URL is : http://localhost:3000
+  The Authorization callback URL is : http://localhost:3000
+  if You are have problem with url change urls above to http://localhost:3000/Github-Finder
+  
+  copy client id and secret key
+
+## create .env file
+put this to varailbles
+
+REACT_APP_GITHUB_CLIENT_ID={ClinetId}
+REACT_APP_GITHUB_CLIENT_SECRET={SecretKey}
 
 ### `npm start`
 
